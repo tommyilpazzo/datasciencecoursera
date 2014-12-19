@@ -6,3 +6,5 @@ source("http://bioconductor.org/biocLite.R")
 biocLite("rhdf5")
 
 install.packages("dyplr")
+
+install.packages(c("jpeg", "Hmisc"))
